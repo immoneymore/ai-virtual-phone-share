@@ -1,4 +1,3 @@
 [build]
-  base = "ai-virtual-phone-share"
   publish = "dist"
   command = "npm run build"
